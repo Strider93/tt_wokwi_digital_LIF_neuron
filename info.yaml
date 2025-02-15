@@ -16,9 +16,9 @@ project:
 pinout:
   # Inputs
   ui[0]: "Weight[0]"
-  ui[1]: "Weight[1]""
-  ui[2]: "Weight[2]""
-  ui[3]: "Weight[3]""
+  ui[1]: "Weight[1]"
+  ui[2]: "Weight[2]"
+  ui[3]: "Weight[3]"
   ui[4]: "Spike"
   ui[5]: ""
   ui[6]: ""
