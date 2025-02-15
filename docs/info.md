@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple LIF neuron.
 
 ## How to test
 
-Explain how to use your project
+input weight and spike over multiple time steps. When Vth reached a output spike is fired.
+Threshold is fixed. Data is inputed over Input Pins.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No hardware needed. Use DIP switches to input data.
